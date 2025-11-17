@@ -1,14 +1,14 @@
 //
-//  FortuneApp.swift
-//  Fortune
+//  Fortune2App.swift
+//  Fortune2
 //
-//  Created by Fabio Antonucci on 11/11/25.
+//  Created by Fabio Antonucci on 12/11/25.
 //
 
 import SwiftUI
 
 @main
-struct FortuneApp: App {
+struct CompassQuotesApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
